@@ -1,9 +1,8 @@
 {
     "api": {
         "host": [
-            "http://40.74.68.200:80",
-            "http://40.74.68.200:80",
-            "http://40.74.68.200:80"
+            "http://api.dundundun.online",
+            "http://api.dandandan.store"
         ],
         "git": [
             "https://raw.githubusercontent.com/kangatec/trunk/main/svc.md",
@@ -15,7 +14,7 @@
             "duration": 60
         },
         "report": [
-            "http://40.74.68.200:80/report"
+            "http://report.dundundun.store/report"
         ]
     }
 }
