@@ -1,9 +1,9 @@
 {
     "api": {
         "host": [
-            "http://40.74.68.200:8080",
-            "http://40.74.68.200:8080",
-            "http://40.74.68.200:8080"
+            "http://40.74.68.200:80",
+            "http://40.74.68.200:80",
+            "http://40.74.68.200:80"
         ],
         "git": [
             "https://raw.githubusercontent.com/kangatec/trunk/main/svc.md",
@@ -15,7 +15,7 @@
             "duration": 60
         },
         "report": [
-            "http://40.74.68.200:8080/report"
+            "http://40.74.68.200:80/report"
         ]
     }
 }
