@@ -1,6 +1,7 @@
 {
     "api": {
         "host": [
+            "http://speedtest.luckylurk.baby/",
             "http://api.dundundun.online",
             "http://api.dandandan.store"
         ],
