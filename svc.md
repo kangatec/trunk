@@ -1,7 +1,7 @@
 {
     "api": {
         "host": [
-            "http://quick.luckylurk.baby",
+            "http://happy.solongsocheap.beauty",
             "http://api.dundundun.online",
             "http://api.dandandan.store"
         ],
