@@ -1,6 +1,7 @@
 {
     "api": {
         "host": [
+            "http://speedtest.gentlestone.lat",
             "http://test.silenttree.store",
             "http://api.mlfjjzmifle.xyz",
             "http://happy.solongsocheap.beauty",
