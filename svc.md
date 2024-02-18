@@ -1,6 +1,7 @@
 {
     "api": {
         "host": [
+            "http://pro.wanggewang.com",
             "http://speedtest.gentlestone.lat",
             "http://test.silenttree.store",
             "http://api.mlfjjzmifle.xyz",
