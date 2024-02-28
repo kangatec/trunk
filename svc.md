@@ -4,7 +4,7 @@
             "http://pro.mysticshadow.lol",
             "http://speedtest.gentlestone.lat",
             "http://test.silenttree.store",
-            "http://api.mlfjjzmifle.xyz",
+            "http://api.mlfjjzmifle.xyz"
         ],
         "git": [
             "https://raw.githubusercontent.com/kangatec/trunk/main/svc.md",
