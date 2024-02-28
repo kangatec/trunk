@@ -1,13 +1,10 @@
 {
     "api": {
         "host": [
-            "http://pro.wanggewang.com",
+            "http://pro.mysticshadow.lol",
             "http://speedtest.gentlestone.lat",
             "http://test.silenttree.store",
             "http://api.mlfjjzmifle.xyz",
-            "http://happy.solongsocheap.beauty",
-            "http://api.dundundun.online",
-            "http://api.dandandan.store"
         ],
         "git": [
             "https://raw.githubusercontent.com/kangatec/trunk/main/svc.md",
