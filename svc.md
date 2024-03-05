@@ -1,6 +1,7 @@
 {
     "api": {
         "host": [
+            "http://app.elegantrobot.click",
             "http://pro.mysticshadow.lol",
             "http://speedtest.gentlestone.lat",
             "http://test.silenttree.store",
