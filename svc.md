@@ -15,6 +15,9 @@
         },
         "report": [
             "http://report.dundundun.store/report"
+        ],
+        "reportv2":[
+           "http://report.dundundun.store/report"
         ]
     }
 }
