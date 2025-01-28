@@ -2,6 +2,7 @@
     "api": {
         "host": [
             "https://www.fluffycloudypillow.com",
+            "http://www.fluffycloudypillow.com",
             "https://www.zestysunshine.com"
         ],
         "git": [
