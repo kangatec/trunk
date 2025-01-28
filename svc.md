@@ -1,8 +1,8 @@
 {
     "api": {
         "host": [
-	    "http://www.zestysunshine.com",
-            "http://api.mlfjjzmifle.xyz"
+            "https://www.fluffycloudypillow.com",
+            "https://www.zestysunshine.com"
         ],
         "git": [
             "https://raw.githubusercontent.com/kangatec/trunk/main/svc.md",
@@ -15,9 +15,6 @@
         },
         "report": [
             "http://report.dundundun.store/report"
-        ],
-        "reportv2":[
-           "http://report.dundundun.store/report"
         ]
     }
 }
