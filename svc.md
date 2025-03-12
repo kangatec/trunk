@@ -1,9 +1,7 @@
 {
     "api": {
         "host": [
-            "https://www.fluffycloudypillow.com",
-            "http://www.fluffycloudypillow.com",
-            "https://www.zestysunshine.com"
+          "https://api.cozyfirlacmth.com"
         ],
         "git": [
             "https://raw.githubusercontent.com/kangatec/trunk/main/svc.md",
