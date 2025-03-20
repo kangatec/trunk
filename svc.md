@@ -1,7 +1,7 @@
 {
     "api": {
         "host": [
-          "https://api.cozyfirlacmth.com"
+          "https://api.everyelfe.com"
         ],
         "git": [
             "https://raw.githubusercontent.com/kangatec/trunk/main/svc.md",
