@@ -1,7 +1,7 @@
 {
     "api": {
         "host": [
-          "https://api.everyelfe.com"
+          "https://api.shimmeringoceansky.com"
         ],
         "git": [
             "https://raw.githubusercontent.com/kangatec/trunk/main/svc.md",
