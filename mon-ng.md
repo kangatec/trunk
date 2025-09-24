@@ -1,1 +1,1 @@
-api2.mpyga.com
+mm.mpyga.com
